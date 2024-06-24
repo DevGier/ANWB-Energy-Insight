@@ -116,5 +116,4 @@
 <div class="energy">
   <h2 class="energy__title">Energieprijs</h2>
   <canvas bind:this={chartCanvas} id="chart"></canvas>
-  <small>Incl. BTW</small>
 </div>
