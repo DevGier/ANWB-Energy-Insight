@@ -86,5 +86,4 @@
 <div class="energy">
   <h2 class="energy__title">Verwachte zon</h2>
   <canvas bind:this={chartCanvas} id="sunchart"></canvas>
-  <small>Incl. BTW</small>
 </div>
